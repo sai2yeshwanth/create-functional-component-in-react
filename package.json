@@ -1,0 +1,12 @@
+{
+  "name": "create-functional-component-in-react",
+  "version": "1.0.0",
+  "description": "# create-functional-component-in-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords":["React","Javascript", "JSX", "parcel" ],
+  "author": "sai yeshwanth",
+  "license": "ISC"
+}
